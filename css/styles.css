@@ -97,7 +97,6 @@ p {
 #testimonials {
     background: #ef8172;
     color: #fff;
-    padding: 7% 20%;
     text-align: center;
 }
 
@@ -106,3 +105,19 @@ p {
    border-radius: 100%;
    margin: 20px;
 }
+
+.carousel-item {
+    padding: 7% 20%;
+}
+
+#press {
+    background: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
